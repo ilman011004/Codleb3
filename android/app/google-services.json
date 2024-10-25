@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "496974544427",
+    "project_id": "prak-codlab3",
+    "storage_bucket": "prak-codlab3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496974544427:android:5d6335d63032873868746e",
+        "android_client_info": {
+          "package_name": "com.modul3auth.modul3auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqmDjr8ei4LuboVO_k40lslkXMSFGXJqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
